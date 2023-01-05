@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "CustomerId",
+      "type": "textfield",
+      "id": "Field_0z2dlo0",
+      "key": "CustomerId",
+      "disabled": false,
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "Form_0yeoisz",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.5.1"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
